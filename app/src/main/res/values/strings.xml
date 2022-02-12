@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GymApp</string>
+    <string name="helen_b">Helen B.</string>
+    <string name="new_york">New York</string>
 </resources>

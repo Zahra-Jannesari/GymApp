@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">season2App</string>
+    <string name="option1">option1</string>
+    <string name="textview">TextView</string>
+</resources>
